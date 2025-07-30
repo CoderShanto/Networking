@@ -65,9 +65,5 @@ This project outlines a scalable and secure cloud network architecture for a rea
 > ⚠️ *These are rough estimates and may vary based on AWS pricing tiers, data egress, and specific configurations.*
 
 ---
+- Author: Mahmud Hasan Shanto
 
-## ✅ Submission Info
-- Author: *Your Name*
-- Platform: AWS (assumed)
-- Tool Used for Diagram: Excalidraw (or your selected tool)
-- Deadline: 19-07-2025
