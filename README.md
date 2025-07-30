@@ -1,5 +1,6 @@
 # 🏡 Real Estate Finder – Network Architecture Design
-![15c6ac4a-152f-4eca-b9e8-1ee14d264343](https://github.com/user-attachments/assets/63e91e75-b707-4a1c-86b4-70812fb316e9)
+<img width="1316" height="792" alt="image" src="https://github.com/user-attachments/assets/b4917987-fa54-408e-ae4f-751580f5b847" />
+)
 
 *Figure: Network Architecture for Real Estate Finder Platform*
 
